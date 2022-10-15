@@ -1,3 +1,3 @@
-# Welcome To The Cum Zone
+# Hola uwu bienvenido al jueguito del yisus
 ****
-uwu
+Arriba las monas chinas
