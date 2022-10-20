@@ -26,7 +26,7 @@ public class playerMovement : MonoBehaviour
     }
     void FixedUpdate()
     {
-        float horizontalVelocity = movement.normalized.x * velocity;
+        float horizontalVelocity = movement.x * velocity;
         _rigidBody.velocity = new Vector2(horizontalVelocity, _rigidBody.velocity.y);
 
     }
