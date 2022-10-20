@@ -1,3 +1,3 @@
-# Hola uwu bienvenido al jueguito del yisus
+# Hola que hace
 ****
-Arriba las monas chinas
+xd
